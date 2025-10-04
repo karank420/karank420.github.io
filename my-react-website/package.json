@@ -2,7 +2,7 @@
   "name": "react-github-pages-template",
   "version": "1.0.0",
   "description": "A React template for GitHub Pages",
-  "homepage": "https://yourusername.github.io/react-github-pages-template",
+  "homepage": "https://karank420.github.io/react-github-pages-template",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
